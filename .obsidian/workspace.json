@@ -1,33 +1,19 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "dd87dcff0575ba81",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "8eb462e3d593cf1b",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "de29e3a5fe779a39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "2d8837e6263008e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,22 +21,21 @@
               "title": "index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "2794c50559485565",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "d880fc2db9c316eb",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "892500e5f4c181d2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "e02186aea51ec23c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "e780170601b862f9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "c04ae2c849cabddd",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "72d1795799ce351b",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "868327af88981891",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "source/content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,12 +108,12 @@
             }
           },
           {
-            "id": "5acb7020384970a8",
+            "id": "7664a026588403fb",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "source/content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -137,7 +122,7 @@
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "b0ce1f989afefd51",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,12 +137,12 @@
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "1ad11ba83d40de22",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -180,15 +165,9 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "2d8837e6263008e3",
-  "lastOpenFiles": [
-    "category-folder/Some note.md",
-    "category-folder/index.md",
-    "index.md",
-    "category-folder"
-  ]
+  "active": "de29e3a5fe779a39",
+  "lastOpenFiles": []
 }
