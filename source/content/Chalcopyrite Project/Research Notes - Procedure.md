@@ -2,6 +2,11 @@
 ---
 
 
+```table-of-contents
+title: ### Table of Contents
+```
+
+
 
 # Choice of Acid
 
@@ -11,7 +16,7 @@ Having attempted HCl + H<sub>2</sub>O<sub>2</sub>, it seems that mostly Iron was
 >Sulfuric acid is also unable to oxidize copper. [[Safety Considerations#- H<sub>2</sub>O<sub>2</sub> (3%)|Peroxide]] or some other oxidizer is still needed for this method. Perhaps consider aeration.
 
 
-Although sulfuric acid is also unable to dissolve copper on its own, the extraction of CuSO<sub>4</sub> is much easier as: CuCl is very soluble in HCl, CuCl<sub>2</sub> is generally ~twice as soluble as CuSO<sub>4</sub>, and visually it is hard to distinguish from chlorides of iron. 
+Although sulfuric acid is also unable to dissolve copper on its own, the extraction of CuSO<sub>4</sub> is much easier as\: CuCl is very soluble in HCl, CuCl<sub>2</sub> is generally ~twice as soluble as CuSO<sub>4</sub>, and visually it is hard to distinguish from chlorides of iron. 
 
 Furthermore, the chlorides of Cu and Fe are not only quite soluble in general  which would make crystallization difficult, their solubilities are too similar to each other to get good separation in fractional crystallization (Table 1). The sulfates, however, have different enough solubilities and are distinguishable enough in colour (both as a solution and in their crystalline forms) that separating the two should be relatively easier than with their chlorides.
 
