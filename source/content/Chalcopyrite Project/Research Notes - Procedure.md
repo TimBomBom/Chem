@@ -2,12 +2,6 @@
 ---
 
 
-```table-of-contents
-title: ### Table of Contents
-```
-
-
-
 # Choice of Acid
 
 Having attempted HCl + H<sub>2</sub>O<sub>2</sub>, it seems that mostly Iron was dissolved instead of copper (see [[Chalcopyrite Project/Old Procedure|Old Procedure]]). It is possible that some dissolved, but it seemed to be nearly entirely iron due to the strong green colour (though it is difficult to tell due to the variable colour of copper chlorides. See Table 1). It is possible that *some* copper was dissolved, but I believe that it was a negligible amount. It is likely that the A-P mixture was used in dissolving and oxidizing the iron into Fe<sup>3+</sup> ions, leaving little peroxide to oxidize the copper. 
