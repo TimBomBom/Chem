@@ -1,11 +1,6 @@
 
 ---
 
-```table-of-contents
-title: ### Table of Contents
-```
-
-
 
 
 # Choice of Acid
